@@ -1,2 +1,2 @@
 # Taskmanager
-Taskmanager application using angular,nodejs and mongodb
+Taskmanager application using angular,nodejs,express and mongodb
